@@ -1,0 +1,30 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/hello/Desktop/work/h5_project/mynuxt/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_ec8f1d18"
+  },
+  {
+    "name": "users-id",
+    "path": "/users/:id?",
+    "component": "/Users/hello/Desktop/work/h5_project/mynuxt/pages/users/_id.vue",
+    "chunkName": "pages/users/_id",
+    "_name": "_bb98b6cc"
+  },
+  {
+    "name": "vod-id",
+    "path": "/vod/:id?",
+    "component": "/Users/hello/Desktop/work/h5_project/mynuxt/pages/vod/_id.vue",
+    "chunkName": "pages/vod/_id",
+    "_name": "_3bec97c6"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/hello/Desktop/work/h5_project/mynuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_ad1f678e"
+  }
+]
